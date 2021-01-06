@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "574168900168",
+    "firebase_url": "https://dareuapp-55f78.firebaseio.com",
+    "project_id": "dareuapp-55f78",
+    "storage_bucket": "dareuapp-55f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574168900168:android:224b491c1a75082279ee7d",
+        "android_client_info": {
+          "package_name": "com.dareu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574168900168-5j3umu0huaurdd1uuekfkdocovjpjoaj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dareu_app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "574168900168-k17ocpos8kuecvqums6kp5aeh7s1d09d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dareu_app",
+            "certificate_hash": "70e101ebe35037c9412a87ab456a0150cc8f0656"
+          }
+        },
+        {
+          "client_id": "574168900168-jsada9pdbpf3bqdkr6mrv34na54bjn72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVUpUt2V0zvnmadoo8rtdfjKWas6jLbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574168900168-jsada9pdbpf3bqdkr6mrv34na54bjn72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

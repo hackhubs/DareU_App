@@ -1,0 +1,37 @@
+{
+  "contentDetails": {
+    "caption": "false",
+    "contentRating": {},
+    "definition": "sd",
+    "dimension": "2d",
+    "duration": "PT2M34S",
+    "licensedContent": false,
+    "projection": "rectangular"
+  },
+  "etag": "b6dxH_QMOV0j-gVH7bpojYICP6A",
+  "id": "CdZZMG3PRQg",
+  "kind": "youtube#video",
+  "snippet": {
+    "categoryId": "22",
+    "channelId": "UC1vy4CsgFgo-fKUoCTAPLrw",
+    "channelTitle": "Baani Kalhan",
+    "description": "Test",
+    "liveBroadcastContent": "none",
+    "localized": {"description": "Test", "title": "DareU2k20 Title"},
+    "publishedAt": "2020-08-08T09:11:42Z",
+    "thumbnails": {
+      "default": [Object],
+      "high": [Object],
+      "medium": [Object],
+      "standard": [Object]
+    },
+    "title": "DareU2k20 Title"
+  },
+  "statistics": {
+    "commentCount": "0",
+    "dislikeCount": "0",
+    "favoriteCount": "0",
+    "likeCount": "0",
+    "viewCount": "7"
+  }
+}
